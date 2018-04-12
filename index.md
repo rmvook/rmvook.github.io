@@ -3,10 +3,10 @@
 This site is just starting development on 04/12/2018. More info to follow.
 
 Find me on:
--  [[Twitter|https://twitter.com/rmvook]]
--  [[Instagram|https://www.instagram.com/rmvook/]]
--  [[LinkedIn|https://linkedin.com/in/rmvook]]
--  [[Medium|https://medium.com/@rmvook]]
+-  [Twitter](https://twitter.com/rmvook)
+-  [Instagram](https://www.instagram.com/rmvook/)
+-  [LinkedIn](https://linkedin.com/in/rmvook)
+-  [Medium](https://medium.com/@rmvook)
 
 
 ### Markdown
