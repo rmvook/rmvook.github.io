@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website
 
-You can use the [editor on GitHub](https://github.com/rmvook/rmvook.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site is just starting development on 04/12/2018. More info to follow.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find me on:
+- Twitter @rmvook
+- Instagram @rmvook
+- LinkedIn
 
 ### Markdown
 
