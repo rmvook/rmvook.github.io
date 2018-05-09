@@ -2,6 +2,8 @@
 
 This site is just starting development on 04/12/2018. More info to follow.
 
+<a href="proj_4.html" title="Project 4">proj_4</a>
+
 Find me on:
 -  [Twitter](https://twitter.com/rmvook)
 -  [Instagram](https://www.instagram.com/rmvook/)
